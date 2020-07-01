@@ -1,0 +1,12 @@
+C:\Users\NeDL - Rafael\Desktop\Projects\SalesTax\SalesTax\bin\Debug\netcoreapp3.1\SalesTax.exe
+C:\Users\NeDL - Rafael\Desktop\Projects\SalesTax\SalesTax\bin\Debug\netcoreapp3.1\SalesTax.deps.json
+C:\Users\NeDL - Rafael\Desktop\Projects\SalesTax\SalesTax\bin\Debug\netcoreapp3.1\SalesTax.runtimeconfig.json
+C:\Users\NeDL - Rafael\Desktop\Projects\SalesTax\SalesTax\bin\Debug\netcoreapp3.1\SalesTax.runtimeconfig.dev.json
+C:\Users\NeDL - Rafael\Desktop\Projects\SalesTax\SalesTax\bin\Debug\netcoreapp3.1\SalesTax.dll
+C:\Users\NeDL - Rafael\Desktop\Projects\SalesTax\SalesTax\bin\Debug\netcoreapp3.1\SalesTax.pdb
+C:\Users\NeDL - Rafael\Desktop\Projects\SalesTax\SalesTax\obj\Debug\netcoreapp3.1\SalesTax.AssemblyInfoInputs.cache
+C:\Users\NeDL - Rafael\Desktop\Projects\SalesTax\SalesTax\obj\Debug\netcoreapp3.1\SalesTax.AssemblyInfo.cs
+C:\Users\NeDL - Rafael\Desktop\Projects\SalesTax\SalesTax\obj\Debug\netcoreapp3.1\SalesTax.csproj.CoreCompileInputs.cache
+C:\Users\NeDL - Rafael\Desktop\Projects\SalesTax\SalesTax\obj\Debug\netcoreapp3.1\SalesTax.dll
+C:\Users\NeDL - Rafael\Desktop\Projects\SalesTax\SalesTax\obj\Debug\netcoreapp3.1\SalesTax.pdb
+C:\Users\NeDL - Rafael\Desktop\Projects\SalesTax\SalesTax\obj\Debug\netcoreapp3.1\SalesTax.genruntimeconfig.cache
