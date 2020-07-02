@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\SalesTax\SalesTax.csproj" />
+    <ProjectReference Include="..\SalesTaxProject\SalesTax.csproj" />
   </ItemGroup>
 
 </Project>

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\NeDL - Rafael\\Desktop\\Projects\\SalesTax\\SalesTax\\SalesTax.csproj": {}
+    "C:\\Users\\NeDL - Rafael\\Desktop\\Projects\\SalesTax\\SalesTaxProject\\SalesTax.csproj": {}
   },
   "projects": {
-    "C:\\Users\\NeDL - Rafael\\Desktop\\Projects\\SalesTax\\SalesTax\\SalesTax.csproj": {
+    "C:\\Users\\NeDL - Rafael\\Desktop\\Projects\\SalesTax\\SalesTaxProject\\SalesTax.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NeDL - Rafael\\Desktop\\Projects\\SalesTax\\SalesTax\\SalesTax.csproj",
+        "projectUniqueName": "C:\\Users\\NeDL - Rafael\\Desktop\\Projects\\SalesTax\\SalesTaxProject\\SalesTax.csproj",
         "projectName": "SalesTax",
-        "projectPath": "C:\\Users\\NeDL - Rafael\\Desktop\\Projects\\SalesTax\\SalesTax\\SalesTax.csproj",
+        "projectPath": "C:\\Users\\NeDL - Rafael\\Desktop\\Projects\\SalesTax\\SalesTaxProject\\SalesTax.csproj",
         "packagesPath": "C:\\Users\\NeDL - Rafael\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NeDL - Rafael\\Desktop\\Projects\\SalesTax\\SalesTax\\obj\\",
+        "outputPath": "C:\\Users\\NeDL - Rafael\\Desktop\\Projects\\SalesTax\\SalesTaxProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\NeDL - Rafael\\AppData\\Roaming\\NuGet\\NuGet.Config",

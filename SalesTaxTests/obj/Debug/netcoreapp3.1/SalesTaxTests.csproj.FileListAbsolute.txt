@@ -1,3 +1,4 @@
+C:\Users\NeDL - Rafael\Desktop\Projects\SalesTax\SalesTaxTests\bin\Debug\netcoreapp3.1\SalesTax.exe
 C:\Users\NeDL - Rafael\Desktop\Projects\SalesTax\SalesTaxTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
 C:\Users\NeDL - Rafael\Desktop\Projects\SalesTax\SalesTaxTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
 C:\Users\NeDL - Rafael\Desktop\Projects\SalesTax\SalesTaxTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
@@ -84,6 +85,8 @@ C:\Users\NeDL - Rafael\Desktop\Projects\SalesTax\SalesTaxTests\bin\Debug\netcore
 C:\Users\NeDL - Rafael\Desktop\Projects\SalesTax\SalesTaxTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 C:\Users\NeDL - Rafael\Desktop\Projects\SalesTax\SalesTaxTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Users\NeDL - Rafael\Desktop\Projects\SalesTax\SalesTaxTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\NeDL - Rafael\Desktop\Projects\SalesTax\SalesTaxTests\bin\Debug\netcoreapp3.1\SalesTax.dll
+C:\Users\NeDL - Rafael\Desktop\Projects\SalesTax\SalesTaxTests\bin\Debug\netcoreapp3.1\SalesTax.pdb
 C:\Users\NeDL - Rafael\Desktop\Projects\SalesTax\SalesTaxTests\obj\Debug\netcoreapp3.1\SalesTaxTests.csprojAssemblyReference.cache
 C:\Users\NeDL - Rafael\Desktop\Projects\SalesTax\SalesTaxTests\obj\Debug\netcoreapp3.1\SalesTaxTests.AssemblyInfoInputs.cache
 C:\Users\NeDL - Rafael\Desktop\Projects\SalesTax\SalesTaxTests\obj\Debug\netcoreapp3.1\SalesTaxTests.AssemblyInfo.cs
@@ -92,6 +95,3 @@ C:\Users\NeDL - Rafael\Desktop\Projects\SalesTax\SalesTaxTests\obj\Debug\netcore
 C:\Users\NeDL - Rafael\Desktop\Projects\SalesTax\SalesTaxTests\obj\Debug\netcoreapp3.1\SalesTaxTests.dll
 C:\Users\NeDL - Rafael\Desktop\Projects\SalesTax\SalesTaxTests\obj\Debug\netcoreapp3.1\SalesTaxTests.pdb
 C:\Users\NeDL - Rafael\Desktop\Projects\SalesTax\SalesTaxTests\obj\Debug\netcoreapp3.1\SalesTaxTests.genruntimeconfig.cache
-C:\Users\NeDL - Rafael\Desktop\Projects\SalesTax\SalesTaxTests\bin\Debug\netcoreapp3.1\SalesTax.exe
-C:\Users\NeDL - Rafael\Desktop\Projects\SalesTax\SalesTaxTests\bin\Debug\netcoreapp3.1\SalesTax.dll
-C:\Users\NeDL - Rafael\Desktop\Projects\SalesTax\SalesTaxTests\bin\Debug\netcoreapp3.1\SalesTax.pdb
