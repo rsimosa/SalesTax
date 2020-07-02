@@ -22,3 +22,4 @@ C:\Users\NeDL - Rafael\Desktop\Projects\SalesTax\SalesTaxProject\obj\Debug\netco
 C:\Users\NeDL - Rafael\Desktop\Projects\SalesTax\SalesTaxProject\obj\Debug\netcoreapp3.1\SalesTax.dll
 C:\Users\NeDL - Rafael\Desktop\Projects\SalesTax\SalesTaxProject\obj\Debug\netcoreapp3.1\SalesTax.pdb
 C:\Users\NeDL - Rafael\Desktop\Projects\SalesTax\SalesTaxProject\obj\Debug\netcoreapp3.1\SalesTax.genruntimeconfig.cache
+C:\Users\NeDL - Rafael\Desktop\Projects\SalesTax\SalesTaxProject\obj\Debug\netcoreapp3.1\SalesTax.csprojAssemblyReference.cache

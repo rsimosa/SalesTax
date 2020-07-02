@@ -24,7 +24,7 @@ namespace SalesTaxTests
         {
             var manager = new TaxManager(new AccessorFactory());
             
-            Assert.AreEqual(-1, manager.CalculateTax("CANADA", -125.00m));
+            Assert.AreEqual(-1, manager.CalculateTax("CANADA", 0.00m));
             Assert.AreEqual(-1, manager.CalculateTax("USA", -125.00m));
         }
 

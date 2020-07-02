@@ -23,14 +23,7 @@ namespace SalesTax.Managers
             {
                 taxService.RequestTaxCalculation(amount);
 
-                if (taxService.CheckTaxResult())
-                {
-                    return taxService.GetTaxAmount();
-                }
-                else
-                {
-                    return -1;
-                }
+                return (taxService.CheckTaxResult()) ? taxService.GetTaxAmount() : -1;
             }
             else
             {
