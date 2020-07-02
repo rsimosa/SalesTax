@@ -4,7 +4,7 @@ using System.Text;
 
 namespace SalesTax.Accessors
 {
-    class TaxServiceB : ITaxService    
+    public class TaxServiceB : ITaxService    
     {
         private decimal taxRate = 6.25m;
         private decimal result = 0.00m;

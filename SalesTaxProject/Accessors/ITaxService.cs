@@ -5,7 +5,7 @@ using System.Text;
 
 namespace SalesTax.Accessors
 {
-    interface ITaxService
+    public interface ITaxService
     {
         void RequestTaxCalculation(decimal amount);
         bool CheckTaxResult();
