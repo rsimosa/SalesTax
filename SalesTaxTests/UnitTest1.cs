@@ -39,23 +39,34 @@ namespace SalesTaxTests
         }
 
         [TestMethod]
-        public void MockTaxManager_InputTest()
+        public void MockTaxManager_InputTest() 
         {
 
+            
+
             var taxService = new MockTaxService();
+            var factory = new MockFactory();
+            factory.MockTaxService = taxService;
+
+            var manager = new TaxManager(factory);
+
+            var result = manager.CalculateTax("USA", 100.00m);
+            
             taxService.RequestTaxCalculation(100.00m);
 
-            var test = taxService.CheckTaxResult();
+            Assert.AreEqual(5.25m, manager.CalculateTax("USA", 100.00m));
 
-            if (test)
-            {
-                var result = taxService.GetTaxAmount();
-                Assert.AreEqual(5.25m, result);
-            }
-            else
-            {
-                Assert.AreEqual(-1, -1);
-            }
+            //var test = taxService.CheckTaxResult();
+
+            //if (test)
+            //{
+            //    var result = taxService.GetTaxAmount();
+            //    Assert.AreEqual(5.25m, result);
+            //}
+            //else
+            //{
+            //    Assert.AreEqual(-1, -1);
+            //}
         }
     }
 }
