@@ -19,7 +19,6 @@ namespace SalesTaxTests
             throw new ArgumentException();
         }
     }      
-
     public class MockTaxService : ITaxService
     {
 
